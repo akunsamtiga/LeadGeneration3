@@ -125,15 +125,15 @@ export default function Hero() {
           variants={retroVariants}
           className="text-5xl md:text-7xl font-serif font-bold mb-6 text-amber-900"
         >
-          <span className="block">Authentic</span>
-          <span className="block">Vintage Charm</span>
+          <span className="block">CitaRasa</span>
+          <span className="block">Digital</span>
         </motion.h1>
 
         <motion.p 
           variants={retroVariants}
           className="text-lg md:text-xl font-serif text-amber-800 max-w-2xl mb-12"
         >
-          Where every cup, stitch and creation tells a story of timeless craftsmanship
+          Transformasikan bisnis kuliner Anda dengan solusi digital inovatif untuk meningkatkan daya tarik dan penjualan secara online.
         </motion.p>
 
         <motion.div 

@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: 'Landing Page Kuliner',
-  description: 'Halaman landing modern dengan animasi penuh untuk meningkatkan pemasaran kuliner.',
+  title: 'CitaRasa Digital',
+  description: 'Transformasikan bisnis kuliner Anda dengan solusi digital inovatif untuk meningkatkan daya tarik dan penjualan secara online.',
 };
 
 export default function RootLayout({ children }) {
